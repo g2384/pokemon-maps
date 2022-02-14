@@ -1,2 +1,5 @@
 # pokemon-maps
- Pokemon Maps
+
+| Region | Title                             |
+| ------ | --------------------------------- |
+| Sinnoh | Brilliant Diamond & Shining Pearl |
